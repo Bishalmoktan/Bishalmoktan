@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bishal+Moktan!;" />
 </h1>
 
-<h3 align="center">A passionate fullstack developer from Nepal</h3>
+<h3 align="center">A fullstack developer</h3>
 
 <br/>
 
@@ -12,7 +12,7 @@
  
  🔭 I’m currently in a **college**
  
- 🌱 I’m currently learning **Docker, AWS and more...**
+ 🌱 I’m currently learning **Kubernetes, AWS and more...**
 
  </div>
  
